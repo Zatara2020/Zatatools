@@ -34,7 +34,7 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/Zatara2020/Zatatools
+ - git clone https://github.com/Zatara2020-git/Zatatools
 
 // Ingresar al proyecto
  - cd Zatatools/
