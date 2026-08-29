@@ -34,12 +34,12 @@ Esta herramienta de navaja suiza en el Carding dispone de una variedad de opcion
  - pkg install python3 --upgrade
 
 // Clonar este repositorio:
- - git clone https://github.com/Lanniscaf/cctools.git
+ - git clone https://github.com/Zatara2020/Zatatools
 
 // Ingresar al proyecto
- - cd cctools/
+ - cd Zatatools/
 
-// Instalar las dependencias necesarias:
+// Instalarlass dependencias necesarias:
  - pip install -r requirements.txt
 
 // Ejecutar el script
